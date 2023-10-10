@@ -1,4 +1,4 @@
-# Setup RabbitMQ with PHP
+# Setup php-amqplib
 
 ## Dependencies
 Install system dependencies
@@ -24,3 +24,4 @@ Run the sender
 
 ## Resource
 - ["Hello World" (using the php-amqplib Client)](https://www.rabbitmq.com/tutorials/tutorial-one-php.html)
+
